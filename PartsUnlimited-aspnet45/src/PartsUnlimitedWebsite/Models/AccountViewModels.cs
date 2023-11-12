@@ -7,6 +7,8 @@ namespace PartsUnlimited.Models
 {
     public class ExternalLoginConfirmationViewModel
     {
+        // My First Change
+        
         [Required]
         [Display(Name = "Email")]
         public string Email { get; set; }
